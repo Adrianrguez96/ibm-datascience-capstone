@@ -1,38 +1,37 @@
-# IBM Data Science Capstone Project 2025
+# IBM Data Science Capstone Project 2024
 
-This repository contains the final capstone project for the **IBM Data Science and Machine Learning Course (2024/2025)**. The goal of this project is to apply the skills and knowledge acquired throughout the program to solve a real-world problem using data science and machine learning techniques.
+This repository contains the final capstone project for the **IBM Data Science Professional Certificate (2024)**. The objective of this project is to apply data science and machine learning techniques to solve a real-world problem using data-driven insights.
 
 ## Project Description
 
-In this project, we take on the role of a data scientist working with New York City's **311 service request system**. This system allows residents to report non-emergency issues, and the collected data is publicly available in the city's open datasets. Over the past few years, complaints directed to the **Department of Housing Preservation and Development (HPD)** have significantly increased.
+In this capstone project, we take on the role of a data scientist analyzing **space launch rockets**. The goal is to explore launch data, identify key success factors, and develop predictive models to assess the probability of a successful rocket launch. 
 
-Our task is to analyze this data to address key questions that help the department effectively manage complaints. To achieve this, we will use various techniques, including:
+Using publicly available datasets from space agencies and private companies, we will apply various data science techniques, including:
 
-- **Data Ingestion**: Collecting and loading data from multiple sources.
-- **Exploratory Data Analysis (EDA)**: Identifying trends, patterns, and correlations in the dataset.
-- **Data Visualization**: Using visual tools to better understand and communicate insights.
-- **Machine Learning**: Applying predictive modeling techniques to analyze complaint patterns.
-- **Model Evaluation**: Assessing model performance to ensure reliability and accuracy.
+- **Data Collection**: Gathering historical launch data from multiple sources.
+- **Exploratory Data Analysis (EDA)**: Identifying patterns and key variables influencing launch success.
+- **Data Visualization**: Using graphical tools to communicate insights effectively.
+- **Machine Learning**: Developing predictive models to estimate launch outcomes.
+- **Model Evaluation**: Testing and optimizing models for accuracy and reliability.
 
 ## Technologies Used
 
-The project leverages several data science tools and programming languages, including:
+This project utilizes the following tools and technologies:
 
 - **Python** (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 - **Jupyter Notebook**
 - **SQL for Data Querying**
 - **IBM Watson Studio**
 - **APIs for Data Collection**
-- **Machine Learning Algorithms** (Regression, Classification, Clustering)
+- **Machine Learning Models** (Regression, Classification)
 
 ## Getting Started
 
 ### Prerequisites
-To run this project locally, ensure you have the following installed:
+To run this project locally, ensure you have:
 
-- Python 3.x
+- Python 3.x installed
 - Jupyter Notebook
-- Required Python libraries (install using `pip install -r requirements.txt`)
 
 ## Contributors
 
